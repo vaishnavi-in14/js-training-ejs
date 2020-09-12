@@ -6,6 +6,6 @@ console.log("Apple" == "Banana")
 
 console.log(null == 0)
 
-console.log(null == undefined)
+console.log(null != undefined)
 
-console.log(NaN == NaN)
+console.log(NaN === NaN)

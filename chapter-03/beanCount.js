@@ -13,6 +13,5 @@ function countBs() {
     return countChar("BCB","B");
 }
 
-console.log(countBs("BcB"));
+console.log(countBs());
 console.log(countChar("kakkerklake", "k"));
-

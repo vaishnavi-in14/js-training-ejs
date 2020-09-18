@@ -9,4 +9,9 @@ function countChar(str, letter) {
     return count;
 }
 
+function countBs() {
+    return countChar("BCB","B");
+}
+
+console.log(countBs());
 console.log(countChar("kakkerklake", "k"));
